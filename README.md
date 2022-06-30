@@ -1,2 +1,4 @@
 # hello-world
-Just another respository
+Hi humans!
+
+I'm new here. Nice to meet you.
